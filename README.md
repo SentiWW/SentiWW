@@ -3,7 +3,7 @@
 ## 💜 About me:
 I'm Wojtek (diminutive of Wojciech), I'm 21 years old, currently studying Computer Engineering at the <a href="https://pwr.edu.pl/en/" target="_blank">Wrocław University of Science and Technology</a>. I do <u>many</u> things. Most of them related to computers and mathematics. On the internet I go by Senti or SentiWW, depends on which one wasn't taken.
 
-## 🔧 Programming languages:
+## 🔧 Languages:
 - C#
 - C++
 - C
