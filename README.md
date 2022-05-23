@@ -26,7 +26,7 @@ I'm Wojtek (diminutive of Wojciech), I'm 21 years old, currently studying Comput
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SentiWW)](https://github.com/SentiWW/github-readme-stats)
 
-## 🌐 Website: [https://senti.dev](senti.dev)
+## 🌐 Website: [senti.dev](https://senti.dev)
 
 <!--
 
